@@ -8,9 +8,9 @@ Cafe App, with a frontend built in React & Redux and a backend built in Django A
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://restro-cafe-frontend-alexis.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://frontend-restorecafe.herokuapp.com/) here!!
 
-Check out [API LIVE DEMO](https://restro-cafe-backend-alexis.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://backend-restorecafe.herokuapp.com/) here!!
 
 ## Tech used
 
@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://restro-cafe-backend-alexis.herokuapp.com/) her
 1. Git Clone
 
 ```
-git clone https://github.com/Amhinkle/Restro-Cafe-Final.git
+git clone https://github.com/jrox1/Restore-Cafe.git
 ```
 
 2. Backend setting
