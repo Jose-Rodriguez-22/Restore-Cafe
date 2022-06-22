@@ -9,5 +9,5 @@ class ItemList(generics.ListAPIView):
     queryset = Item.objects.order_by('-created_at').filter(status='active')
     serializer_class = ItemSerializer
     filter_backends = [DjangoFilterBackend, filters.SearchFilter]
-    # filterset_fields = ['category']
+    filterset_fields = ['category']
     search_fields = ['name']
